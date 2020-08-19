@@ -1,2 +1,2 @@
-# gitfiti-wall
-🎨 Dummy repository for messing about with gitfiti
+# Gitfiti Wall 🎨
+Dummy repository for messing about with gitfiti
